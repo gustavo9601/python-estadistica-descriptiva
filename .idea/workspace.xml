@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="655b0e87-4117-4d46-b534-b160ae92ed33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/005-Tipos de datos.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/006-Tipos de datos.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/cars.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04__clase02a_python_basico.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/000-python_basico.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agrupamiento de datos cuantitativos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/005-Tablas pivote.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisis Diamantes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab-Analisis Diamantes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisis Pokemom.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab-Analisis Pokemom.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisis Vuelos New York.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab-Analisis Vuelos New York.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisis de Coches (mtcars).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab-Analisis de Coches (mtcars).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Analisis numerico - agrupacion de data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/006-Analisis numerico - agrupacion de data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases y Funciones.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections y estructuras de datos.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataframes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/002-Dataframes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio - Frecuencias - Medidas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/008-Ejercicio - Frecuencias - Medidas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entradas y salidas.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frecuencias_Absolutas_Relativas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/007-Frecuencias_Absolutas_Relativas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Histogramas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/012-Histogramas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduccion a Probabilidad.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/014-Introduccion a Probabilidad.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduccion a Regresion Lineal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/013-Introduccion a Regresion Lineal.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/003-Math Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib -  Graficos Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/004-Matplotlib -  Graficos Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas de Posicion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/011-Medidas de Posicion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_de_Centralizacion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/009-Medidas de Centralizacion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidias de dispercion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/010-Medidias de dispercion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001-Numpy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-Medidas de Centralizacion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/009-Medidas de Centralizacion.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +38,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627355892941</updated>
-      <workItem from="1627355894543" duration="4309000" />
+      <workItem from="1627355894543" duration="4756000" />
+      <workItem from="1627441159604" duration="641000" />
+      <workItem from="1627762209902" duration="2224000" />
     </task>
     <servers />
   </component>
