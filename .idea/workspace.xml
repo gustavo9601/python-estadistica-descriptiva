@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="655b0e87-4117-4d46-b534-b160ae92ed33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/015-Normalizacion-de-datos-numericos.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/python/python_numpy_pandas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -40,6 +41,7 @@
       <workItem from="1627355894543" duration="4756000" />
       <workItem from="1627441159604" duration="641000" />
       <workItem from="1627762209902" duration="2901000" />
+      <workItem from="1627871706164" duration="1279000" />
     </task>
     <servers />
   </component>
