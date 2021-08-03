@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="655b0e87-4117-4d46-b534-b160ae92ed33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/015-Normalizacion-de-datos-numericos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-matriz-de-covarianza.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-PCA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,8 @@
       <workItem from="1627355894543" duration="4756000" />
       <workItem from="1627441159604" duration="641000" />
       <workItem from="1627762209902" duration="2901000" />
-      <workItem from="1627871706164" duration="1279000" />
+      <workItem from="1627871706164" duration="2139000" />
+      <workItem from="1627957383770" duration="1636000" />
     </task>
     <servers />
   </component>
