@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="655b0e87-4117-4d46-b534-b160ae92ed33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="655b0e87-4117-4d46-b534-b160ae92ed33" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +30,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programs\python\python-estadistica-descriptiva" />
       <recent name="C:\Users\Gustavo Marquez\python\estadistica-descriptiva" />
       <recent name="C:\Users\Gustavo Marquez\python\estadistica-descriptiva\data" />
     </key>
@@ -52,7 +51,7 @@
       <workItem from="1628048639257" duration="67000" />
       <workItem from="1628224290237" duration="705000" />
       <workItem from="1628458003508" duration="1334000" />
-      <workItem from="1650228869371" duration="1070000" />
+      <workItem from="1650228869371" duration="1139000" />
     </task>
     <servers />
   </component>
